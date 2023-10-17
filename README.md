@@ -24,37 +24,33 @@ Project consists of a simple PowerShell script that walks the user through "zero
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://i.imgur.com/juINGdQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/XyOBlbW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
+Upgrading packages:  <br/>
 <img src="https://i.imgur.com/BJuDjyI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/alO5aGV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
+Wait for process to complete (may take some time):  <br/>
 <img src="https://i.imgur.com/QJZon8o.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
+Re-checking upgrades:  <br/>
 <img src="https://i.imgur.com/s9t5BsN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
+Installing software:  <br/>
 <img src="https://i.imgur.com/jNlSvrQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<br />
-<br />
+Configuration option :  <br/>
 <img src="https://i.imgur.com/L3wYEwK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-Sanitization complete:  <br/>
 <br />
 <br />
+Launch Software : <br/>
 <img src="https://i.imgur.com/1323wvA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+<br/>
 </p>
 
 <!--
