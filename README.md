@@ -6,7 +6,7 @@
  ### [YouTube Demonstration Coming Soon]()
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+I meticulously orchestrated the installation of Wireshark on my home computer running Ubuntu 22.04. Starting with a thorough package upgrade to ensure I had the latest versions, I verified the integrity of the software properties and confirmed that the updates were not corrupted. Following this diligence, I proceeded with the installation, encountering a configuration prompt. Finally, I initiated the software through the terminal by executing the 'wireshark' command.
 <br />
 
 
