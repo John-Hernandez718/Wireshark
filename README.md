@@ -6,7 +6,7 @@
  ### [YouTube Demonstration Coming Soon]()
 
 <h2>Description</h2>
-I meticulously orchestrated the installation of Wireshark on my home computer running Ubuntu 22.04. Starting with a thorough package upgrade to ensure I had the latest versions, I verified the integrity of the software properties and confirmed that the updates were not corrupted. Following this diligence, I proceeded with the installation, encountering a configuration prompt. Finally, I initiated the software through the terminal by executing the 'wireshark' command.
+I meticulously orchestrated the installation of Wireshark on my computer running Ubuntu 22.04. Starting with a thorough package upgrade to ensure I had the latest versions, I verified the integrity of the software properties and confirmed that the updates were not corrupted. Following this diligence, I proceeded with the installation, encountering a configuration prompt. Finally, I initiated the software through the terminal by executing the 'wireshark' command.
 <br />
 
 
